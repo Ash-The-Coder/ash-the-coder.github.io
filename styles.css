@@ -1,4 +1,12 @@
-.center {
+ *{
   text-align: center;
   border: 3px;
+}
+
+body {
+  margin: auto;
+  width: 640px; 
+  padding: 50px;
+  font-family: 'Lexend Deca', sans-serif; 
+  color: #2E475D;    
 }
